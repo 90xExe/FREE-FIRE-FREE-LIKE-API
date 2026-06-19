@@ -112,10 +112,12 @@ Perfect for integrating with:
 
 ## 🌐 Other Links
 
-* 🔗 [Telegram Bot](https://t.me/ffinfobd)
-* 🤝 [Telegram Dev Contact](https://t.me/Noyon_Dev_FF)
-* 🎨 [Portfolio](http://be.net/90NBhai)
+𝖯𝖾𝗋𝗆𝖺𝗇𝖾𝗇𝗍 𝖫𝗂𝗇𝗄 : 
+https://discord.gg/XJbTs9XuQN
 
+2nd Link: 
+
+https://discord.gg/free-fire-info-bd-1322169346088243281
 ---
 
 ## 🌟 Show Some Love!
