@@ -18,7 +18,7 @@ Here’s how to use everything like a pro:
 ### 👤 ANY ACCOUNT INFORMATION
 ```
 
-Format: /ffinfo {region} {uid}
+Format: /ffinfo {region} {2137588947}
 Example: /ffinfo bd 12345
 All supported regions: IND, BR, SG, RU, ID, TW, US, VN, TH, ME, PK, CIS, BD
 
